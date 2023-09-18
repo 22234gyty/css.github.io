@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	height: 100px;
+	line-height: 100px;
+	color: #6495ed;
+}
+.container{
+	width: 62.5rem;
+	height: 37.5rem;
+	background-color: #00f7ffc7;
+	margin: 0 auto;
+	margin-top: 3%;
+}
+.header{	
+	height: 15%;
+	background-color: #77eeea;
+}
+.subheading{
+	height: 15%;
+	background-color: #82b4ed;
+}
+.left{
+	width: 33%;
+	height: 60%;
+	background-color: #2e86f9e9;
+	float: left;
+}
+.right{
+	width: 33%;
+	height: 60%;
+	background-color: #2e86f9e9;
+	float: right;
+}
+.footer{	
+	height: 15%;
+	background-color:  #82b4ed;
+	position: relative;/* 相对定位 */
+	top: 60%;
+}

@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 62.5rem;
+	height: 37.5rem;
+	background-color: hsl(181, 87%, 39%);
+	margin: 0 auto;
+	margin-top: 3%;
+}
+.header{	
+	height: 20%;
+	background-color: #1773ba;
+}
+.left{
+	width: 33%;
+	height: 60%;
+	background-color: #2ba86b;
+}
+.footer{	
+	height: 20%;
+	background-color: #1773ba;
+}
